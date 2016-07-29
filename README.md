@@ -1,3 +1,5 @@
-# iservdb
+# iServDB
 
-iServDB 教學專用檔案
+iServDB for teaching.
+iServDB 教學專用檔案。
+
