@@ -1,6 +1,6 @@
-# iServDB
+# iServDB Tools
 
-iServDB for teaching.
+iServDB tools for teaching.
 
-iServDB 教學專用檔案。
+iServDB 教學專用工具檔案。
 
